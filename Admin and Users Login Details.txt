@@ -1,0 +1,26 @@
+
+Agents:
+Username: sonam@rentyourhome.com.au
+Password: ara
+
+Username: rinzin@rentyourhome.com.au
+Password: ara
+
+Username: dawa@rentyourhome.com.au
+Password: ara
+
+Builder:
+Username: tj@rentyourhome.com.au
+Password: ara
+
+Admin Section: (127.0.0.1/rentyourhome/admin)
+username: admin
+password: druk
+
+Database name: "rentyourhome"
+Database type: MySQL
+
+
+
+
+	
